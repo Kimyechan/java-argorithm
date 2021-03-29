@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="363fde5f-a870-4ea3-b711-862c368bf925" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="363fde5f-a870-4ea3-b711-862c368bf925" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dataStructure/graph/dijkstra/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dataStructure/queue/CircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dp/dp1로만들기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dp/계단오르기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dp/쉬운계단수/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dp/파도반수열/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/priorityQueue/절대값힙/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/priorityQueue/최대힙/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/queue/요세푸스문제0/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/queue/카드2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/queue/큐2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/queue/회전하는큐/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/stack/괄호/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/stack/균형잡힌세상/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/stack/스택/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/stack/제로/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/topologySort/ACMCraft/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/topologySort/줄세우기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/topologySort/최종순위/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-argorithm/META-INF/java-argorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-argorithm/com/company/베스트앨범.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +42,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1fPJ2fohMUdxHtFLVjl4bv9MO4T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -31,36 +70,16 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Solution (3)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="java-argorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.전화번호목록.Solution" />
+  <component name="RunManager" selected="Application.Main (5)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.topologySort.ACMCraft.Main" />
       <module name="java-argorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.전화번호목록.*" />
+          <option name="PATTERN" value="com.company.topologySort.ACMCraft.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.위장.Solution" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.파도반수열.Main" />
       <module name="java-argorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.위장.*" />
+          <option name="PATTERN" value="com.company.dp.파도반수열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.N으로표현.Solution" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.계단오르기.Main" />
       <module name="java-argorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.N으로표현.*" />
+          <option name="PATTERN" value="com.company.dp.계단오르기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,36 +113,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.완주하지못한선수.Solution" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.dp1로만들기.Main" />
       <module name="java-argorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.완주하지못한선수.*" />
+          <option name="PATTERN" value="com.company.dp.dp1로만들기.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.쉬운계단수.Main" />
+      <module name="java-argorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.쉬운계단수.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (1)" />
-      <item itemvalue="Application.Solution (2)" />
-      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,11 +188,111 @@
       <workItem from="1596510042742" duration="12000" />
       <workItem from="1599032527392" duration="1649000" />
       <workItem from="1599640337735" duration="1885000" />
+      <workItem from="1599655650538" duration="114000" />
+      <workItem from="1599723113695" duration="4000" />
+      <workItem from="1609832021584" duration="1159000" />
+      <workItem from="1609843158269" duration="2000" />
+      <workItem from="1610426647141" duration="5311000" />
+      <workItem from="1610626990108" duration="2455000" />
+      <workItem from="1611043570800" duration="4989000" />
+      <workItem from="1616375339556" duration="525000" />
+      <workItem from="1616431953124" duration="771000" />
+      <workItem from="1616510268193" duration="3516000" />
+      <workItem from="1616552291789" duration="4426000" />
+      <workItem from="1616647296092" duration="6326000" />
+      <workItem from="1616737298322" duration="10397000" />
+      <workItem from="1616911680584" duration="7035000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1616772044891">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1616772044891" />
+    <state width="1398" height="362" key="GridCell.Tab.0.bottom" timestamp="1617017466376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.843/1440.25.1920.1055@0.0.1440.843" timestamp="1616648631278" />
+    <state width="1398" height="362" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017466376" />
+    <state width="1398" height="362" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842656" />
+    <state width="1398" height="296" key="GridCell.Tab.0.bottom/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300504" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1616432725822" />
+    <state width="1398" height="362" key="GridCell.Tab.0.center" timestamp="1617017466375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.843/1440.25.1920.1055@0.0.1440.843" timestamp="1616648631266" />
+    <state width="1398" height="362" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017466375" />
+    <state width="1398" height="362" key="GridCell.Tab.0.center/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842653" />
+    <state width="1398" height="296" key="GridCell.Tab.0.center/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300503" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1616432725821" />
+    <state width="1398" height="362" key="GridCell.Tab.0.left" timestamp="1617017466372">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.843/1440.25.1920.1055@0.0.1440.843" timestamp="1616648631250" />
+    <state width="1398" height="362" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017466372" />
+    <state width="1398" height="362" key="GridCell.Tab.0.left/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842652" />
+    <state width="1398" height="296" key="GridCell.Tab.0.left/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300502" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1616432725820" />
+    <state width="1398" height="362" key="GridCell.Tab.0.right" timestamp="1617017466376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.843/1440.25.1920.1055@0.0.1440.843" timestamp="1616648631269" />
+    <state width="1398" height="362" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017466376" />
+    <state width="1398" height="362" key="GridCell.Tab.0.right/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842655" />
+    <state width="1398" height="296" key="GridCell.Tab.0.right/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300504" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.25.1440.818/1440.25.1920.1055@0.25.1440.818" timestamp="1616432725821" />
+    <state width="1398" height="362" key="GridCell.Tab.1.bottom" timestamp="1617017469459">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017469459" />
+    <state width="1398" height="362" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842659" />
+    <state width="1398" height="296" key="GridCell.Tab.1.bottom/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300511" />
+    <state width="1398" height="362" key="GridCell.Tab.1.center" timestamp="1617017469455">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017469455" />
+    <state width="1398" height="362" key="GridCell.Tab.1.center/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842657" />
+    <state width="1398" height="296" key="GridCell.Tab.1.center/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300506" />
+    <state width="1398" height="362" key="GridCell.Tab.1.left" timestamp="1617017469451">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017469451" />
+    <state width="1398" height="362" key="GridCell.Tab.1.left/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842656" />
+    <state width="1398" height="296" key="GridCell.Tab.1.left/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300505" />
+    <state width="1398" height="362" key="GridCell.Tab.1.right" timestamp="1617017469456">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="362" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1617017469456" />
+    <state width="1398" height="362" key="GridCell.Tab.1.right/0.0.1440.900/1440.25.1920.1055@0.0.1440.900" timestamp="1616563842658" />
+    <state width="1398" height="296" key="GridCell.Tab.1.right/0.25.1440.817/1440.25.1920.1055@0.25.1440.817" timestamp="1609835300509" />
+    <state x="458" y="137" key="extract.method.dialog" timestamp="1616771392394">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="137" key="extract.method.dialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1616771392394" />
+    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1616772025751">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="595" y="325" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1616772025751" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1616652566855">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1616652566855" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -180,6 +326,86 @@
           <url>file://$PROJECT_DIR$/src/com/company/N으로표현/Solution.java</url>
           <line>45</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dataStructure/stack/Stack.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dataStructure/queue/LinearQueue.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dataStructure/queue/LinearQueue.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dataStructure/queue/LinearQueue.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dataStructure/queue/LinearQueue.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dataStructure/queue/CircularQueue.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/stack/괄호/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/stack/괄호/Main.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/stack/괄호/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/queue/요세푸스문제0/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/queue/회전하는큐/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/topologySort/ACMCraft/Main.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dp/파도반수열/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dp/파도반수열/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dp/쉬운계단수/Main.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dp/쉬운계단수/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
