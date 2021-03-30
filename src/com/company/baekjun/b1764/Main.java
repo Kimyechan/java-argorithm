@@ -1,4 +1,4 @@
-package com.company.Baekjun.b1764;
+package com.company.baekjun.b1764;
 
 import java.io.BufferedReader;
 import java.io.IOException;
