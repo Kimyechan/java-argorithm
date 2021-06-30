@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363fde5f-a870-4ea3-b711-862c368bf925" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b14891/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b14891/Resolve.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Resolve">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b14891.Main" />
       <module name="java-argorithm" />
@@ -89,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.kakaomakers.problem1.Solution" />
+    <configuration name="Resolve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b14891.Resolve" />
       <module name="java-argorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.kakaomakers.problem1.*" />
+          <option name="PATTERN" value="com.company.baekjun.b14891.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,33 +127,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Resolve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Resolve" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +202,9 @@
       <workItem from="1617885997889" duration="28000" />
       <workItem from="1624863320881" duration="78000" />
       <workItem from="1624899348922" duration="2697000" />
-      <workItem from="1624981193969" duration="5796000" />
+      <workItem from="1624981193969" duration="6026000" />
+      <workItem from="1625027116433" duration="344000" />
+      <workItem from="1625069361097" duration="2294000" />
     </task>
     <servers />
   </component>
@@ -381,11 +380,6 @@
           <url>file://$PROJECT_DIR$/src/com/company/baekjun/b14499/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/baekjun/b14891/Main.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="129" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
