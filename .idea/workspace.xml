@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363fde5f-a870-4ea3-b711-862c368bf925" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b10872/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b4936/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b10870/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b14891.Main" />
       <module name="java-argorithm" />
@@ -105,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b14499.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b10870.Main" />
       <module name="java-argorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.baekjun.b14499.*" />
+          <option name="PATTERN" value="com.company.baekjun.b10870.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +143,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Resolve" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Resolve" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +212,7 @@
       <workItem from="1625117754842" duration="18000" />
       <workItem from="1625118314467" duration="37000" />
       <workItem from="1625159479371" duration="2195000" />
-      <workItem from="1625671169699" duration="692000" />
+      <workItem from="1625671169699" duration="1022000" />
     </task>
     <servers />
   </component>
@@ -390,6 +388,11 @@
           <url>file://$PROJECT_DIR$/src/com/company/baekjun/b14499/Main.java</url>
           <line>2</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/baekjun/b10872/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
