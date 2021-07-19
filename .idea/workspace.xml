@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363fde5f-a870-4ea3-b711-862c368bf925" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b1094/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b2098/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b11729.Main" />
       <module name="java-argorithm" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b10870.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b2098.Main" />
       <module name="java-argorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.baekjun.b10870.*" />
+          <option name="PATTERN" value="com.company.baekjun.b2098.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,31 +130,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +216,8 @@
       <workItem from="1625671169699" duration="1924000" />
       <workItem from="1625762138284" duration="6926000" />
       <workItem from="1626110497131" duration="1343000" />
-      <workItem from="1626524413576" duration="981000" />
+      <workItem from="1626524413576" duration="1606000" />
+      <workItem from="1626622558298" duration="3952000" />
     </task>
     <servers />
   </component>
@@ -405,6 +408,11 @@
           <url>file://$PROJECT_DIR$/src/com/company/baekjun/b1094/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/baekjun/b2098/Main.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
