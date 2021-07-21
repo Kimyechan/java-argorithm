@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="363fde5f-a870-4ea3-b711-862c368bf925" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b1086/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b1086/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b1086/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b1311/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/baekjun/b2098/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,20 +65,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main3">
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b2098.Main" />
-      <module name="java-argorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.baekjun.b2098.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b1311.Main" />
       <module name="java-argorithm" />
@@ -120,6 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b2098.Main2" />
+      <module name="java-argorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.baekjun.b2098.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.baekjun.b1086.Main3" />
       <module name="java-argorithm" />
@@ -133,33 +131,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main2 (1)" />
       <item itemvalue="Application.Main3" />
+      <item itemvalue="Application.Main2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main2 (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +218,8 @@
       <workItem from="1626524413576" duration="1606000" />
       <workItem from="1626622558298" duration="7319000" />
       <workItem from="1626695080581" duration="2426000" />
-      <workItem from="1626758344270" duration="14789000" />
+      <workItem from="1626758344270" duration="15075000" />
+      <workItem from="1626883677366" duration="1987000" />
     </task>
     <servers />
   </component>
@@ -418,11 +415,6 @@
           <url>file://$PROJECT_DIR$/src/com/company/baekjun/b1086/Main2.java</url>
           <line>41</line>
           <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/baekjun/b1086/Main3.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
