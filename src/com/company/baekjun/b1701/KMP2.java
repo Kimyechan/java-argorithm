@@ -3,7 +3,7 @@ package com.company.baekjun.b1701;
 class KMP2 {
     public static int[] makeKmpTable(String pattern) {
         int patternSize = pattern.length();
-        int[] pi = new int[patternSize];
+        int[] pi = new int[patternSize]; // index번째까지 문자열까지에서 접두사와 접미사의 일치 길이
         int j = 0;
 
         for (int i = 1; i < patternSize; i++) {
