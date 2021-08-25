@@ -1,4 +1,4 @@
-package com.company.programmers.kakao2018.파일명정렬;
+package com.company.programmers.kakao2018.자동완성;
 
 public class Solution2 {
     static TrieNode root = new TrieNode();
