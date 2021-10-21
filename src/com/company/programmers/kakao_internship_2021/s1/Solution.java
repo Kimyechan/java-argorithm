@@ -1,4 +1,4 @@
-package com.company.programmers.kakao_internship_2021;
+package com.company.programmers.kakao_internship_2021.s1;
 
 import java.util.HashMap;
 import java.util.Map;
