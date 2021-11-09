@@ -10,7 +10,7 @@ class Solution {
             countMap.put(n, countMap.getOrDefault(n, 0) + 1);
         }
 
-        List<Integer> list = new ArrayList();
+        List<Integer> list = new ArrayList<>();
         for (int n : nums2) {
             if (countMap.containsKey(n) && countMap.get(n) != 0) {
                 countMap.put(n, countMap.get(n) - 1);
