@@ -1,4 +1,4 @@
-package com.company.programmers.weekly.week9;
+package com.company.programmers.weekly.전력망을_둘로_나누기;
 
 import java.util.*;
 
